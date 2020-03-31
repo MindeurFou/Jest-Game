@@ -1,2 +1,2 @@
 # Jest Game
- A card game develloped during one semester at UTT
+ A card game developed during one semester at UTT
